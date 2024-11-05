@@ -1,0 +1,3 @@
+global function countdown{
+    //TODO 
+}
